@@ -70,4 +70,4 @@ Estudiante de último semestre de ingeniería de sistemas e informática de la U
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eider1939&theme=dark&locale=es)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eider1939&layout=compact&bg_color=000000&title_color=F1C40F)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eider1939&layout=compact&bg_color=000000&title_color=F1C40F&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
