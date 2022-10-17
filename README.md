@@ -34,8 +34,6 @@ Estudiante de último semestre de ingeniería de sistemas e informática de la U
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eider-alejandro-pe%C3%B1a-dagua-9a001a208/)
 
-- 🤔 I’m looking for help with ...
-
 
 
 ---
