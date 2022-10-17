@@ -5,7 +5,7 @@
   <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611cb16353614d84b95f845b4e2d805e3a208967514&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/eider-alejandro-peña-dagua-9a001a208" target="_blank">
+  <a href="https://www.linkedin.com/in/eider-alejandro-pe%C3%B1a-dagua-9a001a208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -32,7 +32,7 @@ Estudiante de último semestre de ingeniería de sistemas e informática de la U
 
 - 👯 Busco colaborar con personas proactivas y que les guste la Resolución de problemas
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/eider-alejandro-peña-dagua-9a001a208)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eider-alejandro-pe%C3%B1a-dagua-9a001a208/)
 
 - 🤔 I’m looking for help with ...
 
