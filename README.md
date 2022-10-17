@@ -21,11 +21,11 @@
 Estudiante de último semestre de ingeniería de sistemas e informática de la Universidad Nacional de Colombia
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Actual mente no trabajo, pero mi campo de aprendizaje se ha enfocado al desarrollo WEB y al Analisi de informacion (Ciencia de Datos)..
+- :telescope: Actual mente no trabajo, pero mi campo de aprendizaje se ha enfocado al desarrollo WEB y al Analisis de informacion (Ciencia de Datos)..
 
 - :seedling: Actualmente estoy aprendiendo Ciencia de Datos y Desarrollo web.
 
-- :zap: En mi tiempo libre,  resuelvo problemas retos de programacion en los campos de el desarollo wen como en ciencia de datos, leo artículos de tecnología y me gusta estar siempre bien informado.
+- :zap: En mi tiempo libre,  resuelvo problemas-retos de programacion en los campos de el desarollo wen como en ciencia de datos, leo artículos de tecnología y me gusta estar siempre bien informado.
 
 - 👯 Busco colaborar con personas proactivas y que les guste la Resolución de problemas
 
