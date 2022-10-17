@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=790b7611cf21c46744ed10d5787603931c60f757aba48ee1&rid=giphy.gif&ct=s" width="200"/>
 </div>
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=790b7611cb16353614d84b95f845b4e2d805e3a208967514&rid=giphy.gif&ct=s" width="200"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/eider-alejandro-pe%C3%B1a-dagua-9a001a208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
