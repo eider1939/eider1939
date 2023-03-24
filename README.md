@@ -53,8 +53,8 @@ Estudiante de último semestre de ingeniería de sistemas e informática de la U
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"                height="40"/>
   <br>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" title="Excel" alt="Excel" width="40" height="40"/>
-  <img src="[https://iconos8.es/icon/qYfwpsRXEcpc/power-bi](https://iconos8.es/icon/qYfwpsRXEcpc/power-bi)" title="Power BI" alt="Power BI" width="40" height="40"/>
-  <img src="[https://iconos8.es/icon/qYfwpsRXEcpc/power-bi](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png)" title="Streamlit"             alt="Streamlit" width="40" height="40"/>
+  <img src="https://github.com/eider1939/Intro_Data_Science/blob/main/img/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>
+  <img src="https://github.com/eider1939/Intro_Data_Science/blob/main/img/streamlit.png" title="Streamlit" alt="Streamlit" width="40" height="40"/>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite"  alt="Sqlite" width="40" height="40"/>
